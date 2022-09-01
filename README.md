@@ -10,7 +10,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
-<h1 align="center">Hi 👋</h1>
+<h1 align="center">Hi!</h1>
 
 - I’m currently working on [Optical Handwritten Digits Recognition](https://github.com/FirdavsN/optical-handwritten-digits-recognition)
 - Reach me at fnasridd@caltech.edu
